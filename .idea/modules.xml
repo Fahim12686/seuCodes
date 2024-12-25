@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/01/01.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/01/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/02/02.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/03/03.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/04/04.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/05-OOP-Wonders/05-OOP-Wonders.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/05-OOP-Wonders/05-OOP-Wonders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/06-Adventure-with-OOP/06-Adventure-with-OOP.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/06-Adventure-with-OOP/06-Adventure-with-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/07-Collection-Vault/07-Collection-Vault.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/07-Collection-Vault/07-Collection-Vault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/assignments/08-Secret-File/08-Secret-File.iml" filepath="$PROJECT_DIR$/javaNoorSir/assignments/08-Secret-File/08-Secret-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/lectures/24-12-09/24-12-09.iml" filepath="$PROJECT_DIR$/javaNoorSir/lectures/24-12-09/24-12-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/lectures/24-12-15/24-12-15.iml" filepath="$PROJECT_DIR$/javaNoorSir/lectures/24-12-15/24-12-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNoorSir/project-01/project-01.iml" filepath="$PROJECT_DIR$/javaNoorSir/project-01/project-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seuCodes.iml" filepath="$PROJECT_DIR$/.idea/seuCodes.iml" />
+    </modules>
+  </component>
+</project>
