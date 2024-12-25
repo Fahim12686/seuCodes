@@ -36,6 +36,10 @@ public class App {
         sc.close();
     }
 
+    static void loggedIn(){
+        
+    }
+
     static boolean courseChecker(int id, String course) {
         try {
             String fileName = id + ".txt";
